@@ -1,1 +1,1 @@
-github (https://github.com/christinatx/)
+[github] (https://github.com/christinatx/)
