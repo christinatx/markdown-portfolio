@@ -1,2 +1,1 @@
-email christinatx@github.com
-
+github https://github.com/christinatx/
